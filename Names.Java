@@ -10,5 +10,11 @@ public class Names {
         System.out.println(".--.     /\\                ____");
         System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
     }
+
+    public static void PrintShoSig() {
+        System.out.println("Shoa: ☕ Hello from Shoa!");
+    }
+
 }
+
 
